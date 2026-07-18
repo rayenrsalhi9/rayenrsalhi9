@@ -20,7 +20,7 @@ Full-Stack Developer & AI Engineer in training — building products that combin
 
 ### 🚀 What I've been building
 
-- **Enterprise Intranet & AI Forum Agent** — Laravel + Angular platform (DMS, forums, blogs, surveys, real-time chat via Pusher WebSockets, JWT-based RBAC) with an autonomous n8n AI agent that manages forum content through natural language.
+- **Meridian** — enterprise intranet platform (DMS, forums, real-time chat, JWT-based RBAC, AI forum agent) rebuilt from the ground up on React/Next.js, Node/Express, and PostgreSQL — a from-scratch, main-stack rewrite of a Laravel/Angular system I originally built during my PFE internship.
 - **Foodify** — production-grade food delivery app: React 19, TypeScript, Express.js, PostgreSQL.
 - **ProjectRoom** — AI-powered collaboration platform (React, Supabase, OpenAI API) with AI-driven task generation and structured review workflows.
 - **CastGPT** — podcast recommendation chatbot combining GPT conversations with Supabase pgvector semantic search.
@@ -35,7 +35,6 @@ Full-Stack Developer & AI Engineer in training — building products that combin
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat-square&logo=php&logoColor=white)
 ![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
@@ -43,13 +42,11 @@ Full-Stack Developer & AI Engineer in training — building products that combin
 **Frontend**
 ![React](https://img.shields.io/badge/-React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
 ![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
-![Angular](https://img.shields.io/badge/-Angular-DD0031?style=flat-square&logo=angular&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/-Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
 
 **Backend & Databases**
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
 ![Express](https://img.shields.io/badge/-Express-000000?style=flat-square&logo=express&logoColor=white)
-![Laravel](https://img.shields.io/badge/-Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
 ![Supabase](https://img.shields.io/badge/-Supabase-3FCF8E?style=flat-square&logo=supabase&logoColor=white)
@@ -66,6 +63,8 @@ Full-Stack Developer & AI Engineer in training — building products that combin
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white)
 ![Vitest](https://img.shields.io/badge/-Vitest-6E9F18?style=flat-square&logo=vitest&logoColor=white)
 ![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
+
+*Also worked with: Angular, Laravel (used in the original PFE version of Meridian)*
 
 ---
 
